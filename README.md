@@ -1,1 +1,2 @@
-# HybirdQA
+- The code of the E-selector has been released.
+- Before we release the code of the Multi-granularity Evidence Retriever, we give the retrieval result file for E-sel reasoning.
