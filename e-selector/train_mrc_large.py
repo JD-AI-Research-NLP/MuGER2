@@ -14,13 +14,10 @@ from tqdm import tqdm
 from torch.nn import CrossEntropyLoss, MSELoss
 from torch.autograd import Variable
 import torch.nn.functional as F
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-
 from transformers import BertTokenizer, BertModel
-
 import torch.optim as optim
 
 #===============================================Data=====================================================
