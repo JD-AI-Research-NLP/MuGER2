@@ -4,6 +4,10 @@ pytorch==1.5.0
 transformers==2.6.0
 
 # Paper result:
+You need to download the [WIKI-LINKS](https://github.com/wenhuchen/WikiTables-WithLinks), and put it in **./processed_data/**.
+
+Unzip the WIKI-LINKS and the retrieval_scores.
+
 Download the trained MRC models to folder **./trained_model/**
 
 Download the pre-trained [BERT-large](https://s3.amazonaws.com/models.huggingface.co/bert/bert-large-uncased-pytorch_model.bin) model to folder **./muger2/bertlarge/**
