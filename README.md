@@ -4,9 +4,9 @@ pytorch==1.5.0
 transformers==2.6.0
 
 # Paper result:
-Download the trained MRC models to folder ./trained_model/
+Download the trained MRC models to folder **./trained_model/**
 
-Download pre-trained BERT-large(base) model to folder ./bertlarge(base)/
+Download the pre-trained [BERT-large](https://s3.amazonaws.com/models.huggingface.co/bert/bert-large-uncased-pytorch_model.bin) model to folder **./muger2/bertlarge/**
 
 After preparing the trained models, the paper results can be obtained through the following commands
 
