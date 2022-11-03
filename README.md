@@ -6,7 +6,7 @@ transformers==2.6.0
 # Paper result:
 You need to download the [WIKI-LINKS](https://github.com/wenhuchen/WikiTables-WithLinks), and put it in **./processed_data/**.
 
-Unzip the WIKI-LINKS and the retrieval_scores.
+Unzip the WIKI-LINKS and the retrieval_score_large.zip.
 
 Download the trained MRC models to folder **./trained_model/**
 
