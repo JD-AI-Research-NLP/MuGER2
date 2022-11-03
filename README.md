@@ -14,6 +14,6 @@ Download the pre-trained [BERT-large](https://s3.amazonaws.com/models.huggingfac
 
 After preparing the trained models, the paper results can be obtained through the following commands
 
-
+    cd muger2
     python e-selector.py --mode dev --mrc_mode large --input_path ../processed_data/retrieval_scores_large.json --output_path predictions_large.json
     python evaluate_script.py predictions_large.json dev_reference.json
