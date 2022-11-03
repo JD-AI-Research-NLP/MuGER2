@@ -1,8 +1,3 @@
-# Update:
-The code of the E-selector has been released.
-
-Before we release the code of the Multi-G Retriever, we directly provide the retrieval_scores_large.json for E-sel reasoning.
-
 # Main Requirements:
 pytorch==1.5.0
 
